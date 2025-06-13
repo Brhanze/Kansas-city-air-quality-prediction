@@ -18,4 +18,12 @@ This project uses time series modeling to predict seasonal air quality in Kansas
 - Plotted historical vs predicted AQI
 - Detected seasonal patterns in PM2.5 levels
 
-## 📁 Folder Structure
+## 🚀 Future Work
+- Deploy model as a web API using Flask
+- Add interactive dashboard using Streamlit or Power BI
+- Integrate real-time AQI data from public APIs
+
+## 🧠 Author
+**Brhan Zelalem Tsegaye**  
+[LinkedIn](https://www.linkedin.com/in/brhanzelalem-tsegaye)  
+[GitHub](https://github.com/Brhanze)
