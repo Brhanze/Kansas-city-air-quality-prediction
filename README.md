@@ -6,7 +6,7 @@ This project uses time series modeling to predict seasonal air quality in Kansas
 - Python, Pandas, NumPy
 - LSTM (Keras, TensorFlow)
 - Matplotlib, Seaborn
-- AWS SageMaker
+- AWS SageMaker STUDIO
 
 ## 📈 Project Workflow
 1. **Data Cleaning** – Handling missing values and resampling
